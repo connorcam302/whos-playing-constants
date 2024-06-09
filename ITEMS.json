@@ -2272,5 +2272,15 @@
 "id": 1156,
 "name": "Ancient Guardian",
 "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ancient_guardian.png"
+},
+{
+"id": 1441,
+"name": "Gris-Gris",
+"img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/grisgris.png"
+},
+{
+"id": 1440,
+"name": "Black Grimoire",
+"img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_grimoire.png"
 }
 ]
