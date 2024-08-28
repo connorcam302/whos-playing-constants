@@ -600,6 +600,11 @@
 "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mars.png"
 },
 {
+"id": 131,
+"name": "Ringmaster",
+"img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ringmaster.png"
+},
+{
 "id": 135,
 "name": "Dawnbreaker",
 "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dawnbreaker.png"
