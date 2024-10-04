@@ -12,10 +12,6 @@
         "username": "Callum"
     },
     {
-        "id": 294548916,
-        "username": "Colfox"
-    },
-    {
         "id": 110099229,
         "username": "Dom"
     },
@@ -110,5 +106,9 @@
     {
         "id": 204005744,
         "username": "Dan Smurf"
+    },
+    {
+        "id": 294548916,
+        "username": "Colfox"
     }
 ]
